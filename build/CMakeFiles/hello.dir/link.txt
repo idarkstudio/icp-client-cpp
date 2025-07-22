@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/hello.dir/examples-cpp/hello/hello.cpp.o" -o hello  libagent_cpp.a -framework Security -framework CoreFoundation /Users/franrappazzini/ids/icp-client-cpp/ic-agent-wrapper/target/release/libic_agent_wrapper.a libagent_c.a

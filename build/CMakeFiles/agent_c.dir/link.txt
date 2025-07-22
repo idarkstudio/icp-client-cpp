@@ -1,0 +1,2 @@
+/usr/bin/ar qc libagent_c.a "CMakeFiles/agent_c.dir/lib-agent-c/src/agent_c.c.o" "CMakeFiles/agent_c.dir/lib-agent-c/src/helper_c.c.o" "CMakeFiles/agent_c.dir/lib-agent-c/src/identity_c.c.o"
+/usr/bin/ranlib libagent_c.a

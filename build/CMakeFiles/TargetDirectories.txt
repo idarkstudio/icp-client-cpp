@@ -1,0 +1,17 @@
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/ic_agent_wrapper_build.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/agent_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/agent_cpp.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/agent_cpp_tests.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/tests.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/test.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/candid_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/hello_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/ic_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/identity_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/principal_c.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/examples.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/counter.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/hello.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/ic.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/edit_cache.dir
+/Users/franrappazzini/ids/icp-client-cpp/build/CMakeFiles/rebuild_cache.dir

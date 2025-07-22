@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/franrappazzini/ids/icp-client-cpp/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

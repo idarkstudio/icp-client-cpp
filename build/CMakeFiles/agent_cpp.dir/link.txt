@@ -1,0 +1,2 @@
+/usr/bin/ar qc libagent_cpp.a "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/agent.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/func.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/helper.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/identity.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/idl_args.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/idl_value.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/principal.cpp.o" "CMakeFiles/agent_cpp.dir/lib-agent-cpp/src/service.cpp.o"
+/usr/bin/ranlib libagent_cpp.a

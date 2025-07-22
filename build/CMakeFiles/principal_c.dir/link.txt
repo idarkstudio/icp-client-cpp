@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/principal_c.dir/examples/principal_c/principal_c.c.o -o principal_c  libagent_c.a /Users/franrappazzini/ids/icp-client-cpp/ic-agent-wrapper/target/release/libic_agent_wrapper.a -framework Security -framework CoreFoundation

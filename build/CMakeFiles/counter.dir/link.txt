@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/counter.dir/examples-cpp/counter/counter.cpp.o" -o counter  libagent_cpp.a -framework Security -framework CoreFoundation /Users/franrappazzini/ids/icp-client-cpp/ic-agent-wrapper/target/release/libic_agent_wrapper.a libagent_c.a
